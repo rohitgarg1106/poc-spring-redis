@@ -1,4 +1,4 @@
-package com.service.spring.pocspringredis.constants;
+package com.service.spring.pocspringredis.common;
 
 public class CommonConstants {
     public static final String REDIS_HOST = "${redis.host}";
